@@ -1,9 +1,9 @@
-#HANGMAN IN RUBY v0.1
+# HANGMAN IN RUBY v0.1
 
 Simple terminal game
 
 
-###Example:
+### Example:
 ```
       _______
      |/      |
